@@ -36,11 +36,9 @@
 
 #### Console&Game
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/u__young)
+[![](https://img.shields.io/badge/-PlayStation%204Pro-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/u__young)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/uyoung)
 
-##### Genshin Impact
-[![](https://genshin-card.getloli.com/detail/4,5,27-30,32,35,37-39/160596100.png)](https://genshin-card.getloli.com)
 
 ⬇️**点击下方图片留言**⬇️
 
